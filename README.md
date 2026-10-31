@@ -1,16 +1,16 @@
-CodeAlpha – Exploratory Data Analysis (EDA)
+# CodeAlpha – Exploratory Data Analysis (EDA)
 
-Project Overview
+## 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on the Titanic dataset using Python. The objective is to understand the dataset, identify patterns, analyze missing values, and discover factors related to passenger survival.
 
-Dataset
+## 📊 Dataset
 
-- Dataset: Titanic Dataset
-- Total Records: 891
-- Total Columns: 12
+- **Dataset Name:** Titanic Dataset
+- **Total Records:** 891
+- **Total Columns:** 12
 
-Tools and Technologies
+## 🛠️ Tools and Technologies
 
 - Python
 - Pandas
@@ -19,7 +19,7 @@ Tools and Technologies
 - Seaborn
 - Google Colab
 
-Tasks Performed
+## 🔍 Tasks Performed
 
 1. Imported the required Python libraries.
 2. Loaded and explored the Titanic dataset.
@@ -31,11 +31,16 @@ Tasks Performed
 8. Detected potential outliers using the IQR method.
 9. Summarized the findings and conclusions.
 
-Project Files
+## 📁 Project Files
 
-- "CodeAlpha_EDA_Task2.ipynb" – Python notebook containing the EDA.
-- "Titanic-Dataset.csv" – Dataset used for analysis.
+- **CodeAlpha_EDA_Task2.ipynb** – Python notebook containing the EDA.
+- **Titanic-Dataset.csv** – Dataset used for analysis.
 
-Conclusion
+## 🎯 Conclusion
 
-This project helped develop practical knowledge of data exploration, data cleaning techniques, statistical analysis, and data visualization using Python.
+This project helped develop practical knowledge of data exploration, data quality analysis, statistical analysis, outlier detection, and data visualization using Python.
+
+## 💼 Internship Details
+
+- **Organization:** CodeAlpha
+- **Domain
